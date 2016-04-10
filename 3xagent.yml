@@ -1,0 +1,11 @@
+config:
+  extensions:
+  - mp4
+  - mp4s
+  - mkv
+  user: generated
+dirs:
+- d:\download\other
+site:
+  port: 8080
+  url: localhost
